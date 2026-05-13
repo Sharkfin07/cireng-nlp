@@ -253,7 +253,7 @@ pytest tests/
 
 ## Development Status
 
-- [ ] Environment setup and folder structure
+- [x] Environment setup and folder structure
 - [ ] Download and test IndoBERTweet inference
 - [ ] Implement heuristic engine
 - [ ] Implement risk scorer
