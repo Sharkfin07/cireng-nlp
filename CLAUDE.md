@@ -186,7 +186,7 @@ RISK_KEYWORDS = {
 ```bash
 # 1. Clone and set up environment
 git clone <repo>
-cd garda-nlp
+cd cireng-nlp
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
